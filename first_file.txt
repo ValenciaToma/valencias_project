@@ -1,1 +1,2 @@
 echo "Today is a beautiful rainy day"
+echo "I love rainy days"
